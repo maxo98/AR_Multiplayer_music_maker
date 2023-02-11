@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="trompette_scaled" size="0.050000 0.050000" />
+    <ImageTarget name="Saxo_scaled" size="0.050000 0.050000" />
+    <ImageTarget name="piano_scaled" size="0.050000 0.050000" />
+    <ImageTarget name="beatbox_scaled" size="0.050000 0.050000" />
+    <ImageTarget name="batterie_scaled" size="0.050000 0.050000" />
+    <ImageTarget name="base_music_scaled" size="0.050000 0.050000" />
+  </Tracking>
+</QCARConfig>
